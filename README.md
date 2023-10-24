@@ -12,7 +12,7 @@ The data used for this analysis is sourced from [Office for National Statistics]
 - For a detailed understanding, see below.
 
 ## Viewing the Analysis
-To view the rendered R Markdown sheet, (https://deedahir.github.io/uk-inflation-forecasting/)
+To view the rendered R Markdown sheet (containing code, plots & analysis) => (https://deedahir.github.io/uk-inflation-forecasting/)
 
 ## Tools and Technologies Used
 - **R**: The primary tool used for data analysis and visualization.
