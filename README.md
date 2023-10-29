@@ -14,7 +14,8 @@ The data used for this analysis is sourced from [Office for National Statistics]
 ## Viewing the Analysis
 To view the rendered R Markdown sheet (containing code, plots & analysis) => (https://deedahir.github.io/uk-inflation-forecasting/)
 
-## Tools and Technologies Used
+## Tools and Technologies Used  
+[![RStudio](https://img.shields.io/badge/RStudio-1.4.1103-75AADB.svg)](https://www.rstudio.com/)
 - **R**: The primary tool used for data analysis and visualization.
 - **R Markdown**: Used to document the analysis process and generate the final report in HTML format.
 
